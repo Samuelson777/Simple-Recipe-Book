@@ -23,3 +23,6 @@ You can view the live demo of the app at [Simple Recipe Book](https://samuelson7
 - **Framework**: React
 - **State Management**: useState and useEffect hooks
 - **Styling**: Custom CSS with a focus on responsive design
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Simple-Recipe-Book/blob/main/LICENSE) file for details.
